@@ -8,7 +8,7 @@ The primary goal is to demonstrate the raw engineering and problem-solving capac
 
 
 
-Unfortunately the goals cannot accomplished. Generated sprites has a lot of flaws and game mechanics doesn't feel good at all. In the beginning this project was planned to be use Paper-Doll system for customizable armor & weapon sprites. Agent doesn't understand any references or instructions at all , so this feature is gone forever. Suprisingly agent doesn't consider Trademarks as a threat and has no problem to use freely. So here we are , our Red Wyvern "King of the Skies" boss Rathalos 
+Unfortunately the goals cannot accomplished. Generated sprites has a lot of flaws and game mechanics don't feel good at all. In the beginning this project was planned to be use Paper-Doll system for customizable armor & weapon sprites. Agent doesn't understand any references or instructions at all , so this feature is gone forever. Suprisingly agent doesn't consider Trademarks as a threat and has no problem to use freely. So here we are , our Red Wyvern "King of the Skies" boss Rathalos 
 <p align="center">
   <img src="assets/dragon_boss.png" alt="Gameplay Screenshot" width="300" height="300">
   <img src="assets/female_hunter_east.png" alt="Gameplay Screenshot" width="300" height="300">
@@ -16,6 +16,9 @@ Unfortunately the goals cannot accomplished. Generated sprites has a lot of flaw
 </p>
 
 So here is my conclusion. Current agents need to be instructed very carefully. They can implement anything without confirmation. The most important one is when a LLM talks about performance or coding idioms , they refer this concepts as theoretically. Agent usually doesn't consider to use or build this concepts. Without guide a project can be literal mess. I can't talk about newest models but I don't think there is absurdly difference between them
+
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/0538a3fd-78ef-4c28-822b-bb671960d71b" />
+
 
 ---
 
