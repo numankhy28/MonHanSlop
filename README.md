@@ -9,8 +9,8 @@ The primary goal is to demonstrate the raw engineering and problem-solving capac
 Unfortunately the goals cannot accomplished. Generated sprites has a lot of flaws and game mechanics doesn't feel good at all. In the beginning this project was planned to be use Paper-Doll system for customizable armor & weapon sprites. Agent doesn't understand any references or instructions at all , so this feature is gone forever. Suprisingly agent doesn't consider Trademarks as a threat and has no problem to use freely. So here we are , our Red Wyvern "King of the Skies" boss Rathalos 
 <p align="center">
   <img src="assets/dragon_boss.png" alt="Gameplay Screenshot" width="300">
-  <img src="assets/female_hunter_east" alt="Gameplay Screenshot" width="300">
-  <img src="assets/male_hunter_east" alt="Gameplay Screenshot" width="300">
+  <img src="assets/female_hunter_east.png" alt="Gameplay Screenshot" width="300">
+  <img src="assets/male_hunter_east.png" alt="Gameplay Screenshot" width="300">
 </p>
 
 
