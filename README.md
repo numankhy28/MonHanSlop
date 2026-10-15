@@ -7,7 +7,7 @@ This project was developed using **Gemini 3.8 Flash** as a showcase of current A
 The primary goal is to demonstrate the raw engineering and problem-solving capacity of an autonomous AI agent — generating a complete, functional game architecture entirely natively, without using external boilerplates, pre-made frameworks, or third-party code templates.
  
 Unfortunately the goals cannot accomplished. Generated sprites has a lot of flaws and game mechanics doesn't feel good at all. In the beginning this project was planned to be use Paper-Doll system for customizable armor & weapon sprites. Agent doesn't understand any references or instructions at all , so this feature is gone forever. Suprisingly agent doesn't consider Trademarks as a threat and has no problem to use freely. So here we are , our Red Wyvern "King of the Skies" boss Rathalos 
-![Monster Hunter Boss Fight](assets/gameplay.png)
+![Monster Hunter Boss Fight](assets/dragon_boss.png)
 
 
 ---
