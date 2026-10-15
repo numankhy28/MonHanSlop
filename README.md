@@ -17,7 +17,7 @@ Unfortunately the goals cannot accomplished. Generated sprites has a lot of flaw
 
 So here is my conclusion. Current agents need to be instructed very carefully. They can implement anything without confirmation. The most important one is when a LLM talks about performance or coding idioms , they refer this concepts as theoretically. Agent usually doesn't consider to use or build this concepts. Without guide a project can be literal mess. I can't talk about newest models but I don't think there is absurdly difference between them
 
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/0538a3fd-78ef-4c28-822b-bb671960d71b" />
+<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/0538a3fd-78ef-4c28-822b-bb671960d71b" />
 
 
 ---
