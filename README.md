@@ -75,6 +75,7 @@ So here is my conclusion. Current agents need to be instructed very carefully. T
 ---
 
 ## Build & Run
+Needs to Raylib Installed
 You can double-click the build.bat file in the folder or run it via the terminal:
 ```cmd
 build.bat --run
