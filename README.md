@@ -65,12 +65,12 @@ So here is my conclusion. Current agents need to be instructed very carefully. T
 ---
 
 ## Controls
-| Action                      | Mobile (Touch)                                            | PC (Keyboard) |
-| **Movement**                | Bottom-left Virtual Joystick                              | **W, A, S, D** / **Arrow Keys** |
-| **Attack (Shoot / Slash)**  | Bottom-right red **SHOOT / SLASH** button                 | **`J`** / **`Enter`** |
-| **Evade (Dash)**            | Bottom-right blue **EVADE** button *(3s Cooldown)*        | **`Space`** / **`K`** |
-| **Change Hunter**           | Top-right **CHANGE HUNTER** button                        | **`C`** |
-| **Restart Hunt**            | On-screen **RESTART HUNT** button *(Game Over / Victory)* | **`R`** |
+-| Action                      | Mobile (Touch)                                            | PC (Keyboard) |
+-| **Movement**                | Bottom-left Virtual Joystick                              | **W, A, S, D** / **Arrow Keys** |
+-| **Attack (Shoot / Slash)**  | Bottom-right red **SHOOT / SLASH** button                 | **`J`** / **`Enter`** |
+-| **Evade (Dash)**            | Bottom-right blue **EVADE** button *(3s Cooldown)*        | **`Space`** / **`K`** |
+-| **Change Hunter**           | Top-right **CHANGE HUNTER** button                        | **`C`** |
+-| **Restart Hunt**            | On-screen **RESTART HUNT** button *(Game Over / Victory)* | **`R`** |
 
 ---
 
